@@ -1,7 +1,7 @@
 Instalación:
 ------------
 
-1. Clonar el repositorio https://github.com/ruralidays-it-devs/interview-backend.git
+1. Clonar el repositorio https://github.com/ruralidays-it-devs/interview-code-backend.git
 
 2. Si no está ya instalado, instala Docker Desktop.
 
