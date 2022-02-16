@@ -1,0 +1,401 @@
+propertyId,name,bedrooms,bathrooms,maxGuests,priceNight,province,city,airConditioning,wifi,heating
+637,Acogedora casa rural ideal para familias,12,3,32,86,Málaga,Sayalonga,1,1,0
+2485,Encantadora villa con jardín y piscina,9,5,21,71,Cádiz,Arcos de la Frontera,1,1,1
+30,"Villa ideal para amantes de la naturaleza, grandes vistas",2,2,4,48,Málaga,Antequera - La Joya,1,1,0
+31,"Casa rústica, ideal para descansar y disfrutar de las vistas",1,1,2,65,Málaga,Antequera - La Joya,1,1,0
+1750,Casa con especial diseño rústico y vistas a la montaña,5,0,12,88,Málaga,Alhaurín el Grande,1,1,1
+32,Bonita finca con piscina rodeada de vegetación en Antequera,5,3,10,93,Málaga,Antequera - Los Nogales,1,1,1
+33,Hermosa casa rústica con terraza y amplio jardín,2,1,4,12,Málaga,Antequera - La Joya,1,0,1
+798,"Espectacular villa en Mijas con piscina climatizada y Jacuzzi, a 10 minutos del mar",2,0,4,91,Granada,Órgiva,1,1,1
+35,Auténtica casa de vacaciones en las montañas para 2,3,3,6,28,Málaga,Antequera - Los Nogales,1,1,1
+37,Casa de vacaciones para 3 personas a 16 km de Ronda,4,1,9,39,Málaga,Mijas,1,1,1
+1645,Casa de vacaciones para 5 personas con chimenea - 16km de Ronda,5,1,14,42,Málaga,Campillos,1,1,1
+1645,Casa de estilo rural para 7 personas que admite mascotas,5,1,14,93,Málaga,Campillos,1,1,1
+1515,Coqueta casa de vacaciones para 8 personas con amplia ducha hidromasaje,6,0,14,57,Cádiz,Ubrique,1,1,1
+38,Bonita casa de vacaciones en el pueblo de Benalauría,1,1,2,77,Málaga,Antequera - La Joya,1,1,1
+641,Casa de vacaciones de estilo rústico para 2 personas en Benalauría,1,0,2,24,Málaga,Guaro,1,1,1
+49,Acogedora casa para 2 personas en el pueblo malagueño de Benalauría,1,0,2,86,Málaga,Benalauría,1,1,1
+52,Casa de vacaciones con terraza panorámica - ideal para parejas,1,0,2,57,Málaga,Benalauría,1,0,1
+53,"Apartamento con magníficas vistas , ideal para parejas",1,1,2,15,Málaga,Benalauría,0,0,0
+54,Casa rural ideal para 3 personas en la Serranía de Ronda,1,1,2,41,Málaga,Benalauría,0,1,0
+2279,Apartamento rústico para 4 personas en la Serranía de Ronda,3,1,6,28,Málaga,Igualeja,1,1,1
+55,Coqueta casa rural en Málaga con piscina privada,2,0,3,73,Málaga,Benalauría,0,0,0
+62,Casa de vacaciones perfecta para amantes de la naturaleza,2,1,4,28,Málaga,Álora,1,1,1
+2985,Villa paradisíaca con precioso jardín y piscina privada,7,2,13,90,Málaga,Periana,1,1,1
+63,Coqueta villa con piscina privada en Paraje Natural,2,1,4,51,Málaga,Álora,1,1,1
+64,Delicada casa rústica con paisajes sorprendentes,2,1,4,30,Málaga,Álora,1,1,1
+65,"Chalet con encanto, gran capacidad para grupos",3,1,6,76,Málaga,Álora,1,1,1
+2983,Casa rural ideal para grupos en Cuevas del Becerro,6,1,11,43,Málaga,Mijas Costa,1,1,1
+66,Gran casa rural ideal para grupos con pista de tenis,4,1,8,83,Málaga,Álora,1,1,1
+67,Magnífica casa rural con asombrosas vistas en la provincia de Málaga,9,0,21,78,Málaga,Sayalonga,0,1,0
+1096,Encantadora villa con piscina privada y jacuzzi,2,1,4,98,Almería,Níjar,1,1,1
+68,"Gran casa con todas las comodidades, especial grupos",7,0,15,19,Málaga,Cuevas del Becerro,0,0,0
+964,Coqueta casa con piscina y vistas únicas del lago,4,0,7,87,Córdoba,Carcabuey,1,1,1
+70,Apartamento rural cerca del Caminito del Rey,6,1,15,92,Málaga,Sayalonga,1,1,1
+71,Apartamento moderno y luminoso para cuatro personas,5,0,13,41,Málaga,Sayalonga,1,1,1
+1403,Exclusivo apartamento rural cerca de El Chorro,3,0,6,13,Málaga,Alhaurín el Grande,0,1,0
+72,Estupendo apartamento con amplios espacios para ocho personas,6,2,14,91,Málaga,Sayalonga,1,1,1
+78,Casa de vacaciones para ir con mascotas para 8 personas en Parauta,1,1,2,35,Málaga,Ardales,1,1,1
+79,Casa rural de 3 dormitorios con exteriores compartidos a 16 km de Málaga,2,1,4,29,Málaga,Ardales,1,1,1
+80,Casa de vacaciones para 9 personas en amplio cortijo rural en Almogía,3,1,5,60,Málaga,Ardales,1,1,1
+81,Casa rural con bonita chimenea de ladrillos y amplios dormitorios,5,1,8,57,Málaga,Ardales,1,1,1
+92,Acogedora casa de vacaciones en Ronda,2,1,7,47,Málaga,Ronda,1,1,1
+640,Acogedora casa con amplias vistas. Especial grupos,2,0,4,96,Málaga,Guaro,1,1,0
+94,Acogedora casa de vacaciones para familias en Ronda,2,1,7,37,Málaga,Ronda,1,1,1
+95,Exuberante casa rústica en el centro histórico de Ronda,1,1,2,54,Málaga,Ronda,1,1,1
+96,Acogedora casa con jardín tropical en la costa de Nerja,4,1,8,55,Málaga,Nerja,1,1,1
+97,Luminoso chalet en Nerja con gran jardín,3,0,6,94,Málaga,Nerja,1,1,1
+2041,Villa de vacaciones con bonita piscina y jardín en Frigiliana,3,1,6,13,Málaga,Torrox,0,1,0
+98,Magnifica villa en Frigiliana con vistas al mar,3,1,6,11,Málaga,Frigiliana,1,1,1
+99,Cómoda casa rural con preciosas vistas al pueblo blanco,2,1,4,33,Málaga,Frigiliana,1,1,1
+100,Casa de vacaciones para relajarse y disfrutar de la naturaleza,2,1,4,81,Málaga,Torrox,0,1,0
+110,Maravillosa casa rural en Frigiliana con gran piscina,3,2,6,49,Málaga,Nerja,0,1,0
+1859,Maravillosa casa de vacaciones con amplio jardín cerca de Nerja,4,0,8,100,Málaga,Alhaurín el Grande,1,1,1
+114,Casa Rural con Wifi y piscina en Frigiliana para 6 personas,3,1,6,68,Málaga,Frigiliana,0,1,0
+3882,Casa rural con bonita terraza y vistas panorámicas en Frigiliana,5,1,10,66,Málaga,Tolox,0,1,0
+2534,Típica casa de vacaciones en la zona norte de Nerja,3,0,6,33,Málaga,Alozaina,1,1,1
+2535,Villa con hermosa piscina cerca de Nerja,3,1,11,75,Málaga,Pizarra,0,0,0
+116,Bonita casa de vacaciones con barbacoa cerca de la playa en Nerja,6,4,12,59,Málaga,Nerja,0,0,0
+633,"Casa muy amplia y colorida, especial para familias",3,2,8,11,Málaga,Periana,1,1,0
+708,Coqueta casa rural con espléndidas vistas cerca de Torrox,3,0,6,24,Málaga,Torrox,0,1,0
+125,Casa Rural cerca de la playa con Wifi y jardín en Almogía,2,0,5,49,Málaga,Nerja,1,1,1
+774,Bonito chalet con vistas al pueblo de Alozaina,4,1,9,62,Málaga,El Borge,0,1,0
+1984,"Fantástica casa andaluza con barbacoa, ideal para grupos",4,1,7,75,Málaga,Benalmádena,0,1,0
+1985,Casa Rural cerca de la playa con internet y jardín en Guaro ,2,0,4,10,Málaga,Marbella,1,1,1
+1252,Apartamento cerca de la playa con Wifi y chimenea en Guaro ,3,0,8,94,Málaga,Cártama,1,1,1
+1253,Hermosa villa en el corazón de Sierra de las Nieves,3,1,5,95,Granada,Lanjarón,1,1,1
+1254,Tranquilo cortijo con estupendas vistas y Jacuzzi,3,0,5,19,Granada,Lanjarón,1,1,1
+2078,Casa rural con estilo y gran piscina - ideal para grupos,4,1,8,38,Cádiz,Conil de la Frontera,1,1,1
+1256,Excelente villa con impresionantes vistas desde la piscina,3,0,8,68,Málaga,Guaro,0,1,0
+1291,"Villa equipada con Jacuzzi, excelente para relajarse",3,1,6,90,Cádiz,Algar,1,1,1
+141,Casa de vacaciones rodeada de hermosa naturaleza,3,1,6,54,Málaga,Nerja,0,1,0
+2533,Hermosa casa rural con vistas al mar en Frigiliana,3,0,8,56,Sevilla,El Real de la Jara,1,1,1
+3736,Maravillosa casa con piscina y mesa de ping-pong en Ronda,6,1,14,68,Málaga,Cómpeta,0,1,0
+147,Casa Rural cerca de la playa con piscina y barbacoa en Almáchar,3,1,6,24,Málaga,Torrox,0,1,0
+148,Villa en el corazón de Andalucía - ideal para grupos,5,1,17,52,Málaga,Almogía,0,1,0
+1902,Espaciosa casa de vacaciones con impresionante terraza,4,1,8,63,Cádiz,Arcos de la Frontera,1,1,1
+1903,Casa rural para 12 personas a 30 km de Málaga,4,3,8,83,Cádiz,Arcos de la Frontera,1,1,1
+157,Hermosa casa rural de estilo tradicional con barbacoa,4,1,8,74,Málaga,Casarabonela,1,1,1
+1854,"Gran casa con piscina, terraza y vistas al mar",5,1,16,54,Málaga,Cómpeta,1,1,1
+1855,"Villa tranquila, ideal para amantes de la naturaleza",4,2,8,84,Málaga,Nerja,1,1,1
+3913,Preciosa casa de vacaciones con magníficas vistas y piscina,2,0,4,63,Cádiz,El Gastor,1,1,1
+3252,Acogedora finca con piscina rodeada de naturaleza,5,1,10,85,Málaga,Alhaurín el Grande,0,1,0
+646,Casa Rural cerca de la playa con barbacoa y chimenea en Cómpeta ,4,1,8,57,Málaga,El Borge,0,1,0
+2443,Excelente villa con fantásticas vistas en zona costera,2,1,4,19,Málaga,Marbella,1,1,1
+2444,Auténtica casa de vacaciones con vistas al lago,2,1,8,87,Huelva,Almonaster La Real,1,1,1
+2445,Casa de vacaciones con vistas a la montaña y piscina,1,1,4,37,Málaga,Benalmádena,1,1,1
+2446,Bonita casa de vacaciones para seis personas en Ardales,7,1,16,52,Córdoba,Priego de Córdoba,1,1,1
+168,"Acogedora casa rural en plena naturaleza, a pocos km del Caminito del Rey",3,1,7,81,Málaga,Monda,1,1,1
+799,"Villa bien situada y rodeada de naturaleza, ideal para grupos",4,4,8,35,Málaga,Mijas,1,1,1
+800,Espacioso cortijo rural con piscina y bonito porche cubierto en Archidona,3,0,4,57,Granada,Cijuela,1,1,1
+639,Casa rural con encanto cerca del Torcal,5,0,10,21,Málaga,Almáchar,0,1,0
+174,"Casa rural amplia y acogedora, ideal para grupos",4,1,12,32,Málaga,Alozaina,1,1,1
+175,Amplia casa de vacaciones para grupos cerca de El Torcal,4,2,8,100,Málaga,Sayalonga,0,1,0
+177,Preciosa casa con piscina y mesa de ping-pong,5,2,10,48,Málaga,Tolox,0,1,0
+180,Estupenda casa rural muy completa y rodeada de olivos ,3,0,6,56,Málaga,Frigiliana,1,1,0
+183,"Gran cortijo para grupos en Antequera, muy bien equipado",3,0,8,26,Málaga,Ronda,1,1,1
+184,"Amplia casa de vacaciones y una gran piscina, privacidad garantizada",8,0,18,45,Málaga,Almáchar,0,1,0
+185,Villa con piscina privada en el corazón de Andalucía,5,2,12,62,Málaga,Almáchar,0,1,0
+186,Tradicional cortijo andaluz ideal para disfrutar en familia,8,0,16,36,Málaga,Almáchar,0,1,0
+187,Típica casa andaluza con piscina en Antequera,6,0,12,15,Málaga,Almáchar,0,1,0
+189,Maravillosa villa con impresionantes vistas cerca de Ronda,2,1,4,96,Málaga,Alozaina,0,1,0
+194,Casa rural que admite mascotas con vistas al pueblo en Genalguacil,3,1,6,59,Málaga,Almáchar,0,1,0
+3654,Enorme casa rural para 15 personas en la provincia de Málaga,7,0,14,41,Córdoba,Priego de Córdoba,0,1,0
+1329,Apartamento para 5 personas donde ir con mascotas cerca de la Costa del Sol,2,0,4,50,Granada,Órgiva,1,1,1
+195,Casa Rural con barbacoa y jardín en Benaoján ,3,2,6,20,Málaga,Almáchar,0,1,0
+196,Enorme casa rural ideal para grupos en el pueblo de Benaoján,3,1,7,99,Málaga,Almáchar,1,1,1
+202,Casa de vacaciones con detalles modernos en la Serranía de Ronda,3,1,7,41,Málaga,Viñuela,0,1,0
+619,Coqueta casa de vacaciones para 4 personas en una urbanización de Arriate,4,3,8,64,Málaga,Antequera - La Higuera,1,1,0
+203,Acogedora casa de vacaciones para familias en Arriate,3,1,7,66,Málaga,Viñuela,0,1,0
+1227,Casa Rural cerca de la playa con barbacoa y jardín en Barbate - Caños de Meca ,3,2,6,41,Cádiz,Vejer de la Frontera - El Palmar,1,1,1
+1228,Apartamento vacacional de dos plantas con aire acondicionado,2,0,4,19,Cádiz,Vejer de la Frontera - El Palmar,0,1,0
+1229,Acogedor apartamento para 4 personas con acceso internet en Medina Sidonia,2,2,4,92,Cádiz,Vejer de la Frontera - El Palmar,1,1,1
+205,Apartamento de 1 dormitorio en el pueblo de Medina Sidonia,2,0,6,60,Málaga,Ardales,1,0,1
+3629,Casa de vacaciones para cinco personas muy cerca de la playa,5,2,10,64,Málaga,Archidona,1,1,1
+206,Casa Rural cerca de la playa con jardín y chimenea en Barbate - Caños de Meca ,2,0,6,98,Málaga,Ardales,1,0,1
+207,Apartamento con conexión internet y aire acondicionado para 12 personas,6,0,12,21,Málaga,Júzcar,0,1,0
+209,Apartamento vacacional en plena Sierra de Cádiz - ideal para familias,3,1,6,11,Málaga,Villanueva de la Concepción,1,1,1
+210,"Villa con piscina, pista de tenis y sala de juegos",6,0,16,82,Málaga,Villanueva del Trabuco,0,1,0
+211,Magnífica casa con encanto andaluz y bonito jardín,3,1,8,42,Málaga,Antequera - La Higuera,1,1,1
+212,Encantadora casa rural con amplio jardín en Ronda,4,1,9,63,Málaga,Villanueva de la Concepción,0,1,0
+2144,Casa de estilo rústico para parejas en el centro de Olvera,2,1,5,66,Granada,Nevada,1,1,1
+1677,Coqueto apartamento vacacional para cinco personas en Zahara de la Sierra,4,0,9,86,Jaén,Siles,1,1,1
+215,Enorme casa rural en la Sierra de Cádiz,10,0,24,46,Málaga,Antequera,1,1,1
+1101,Bonita casa de piedra para 5 personas en la Sierra de Grazalema,5,2,13,52,Málaga,Alcaucín,1,1,0
+220,Precioso cortijo rural para 10 personas en plena Sierra de Grazalema,3,2,8,49,Málaga,Ronda,1,1,1
+229,Pintoresca casa de vacaciones en el centro histórico de El Borge,8,1,20,10,Málaga,Benaoján,1,0,1
+801,Hermosa villa privada con espectaculares vistas a la montaña,3,1,6,29,Málaga,Almáchar,1,1,1
+1061,Espaciosa casa rural para 15 personas con piscina vallada en Jubrique,5,0,10,87,Almería,Vélez Rubio,1,0,1
+240,Casa Rural con piscina y jardín en Júzcar ,2,0,4,33,Cádiz,Sanlúcar de Barrameda.,0,0,0
+597,Casa Rural con Wifi y jardín en Júzcar ,2,0,4,17,Málaga,Cómpeta,1,1,1
+783,Característica casa de vacaciones para 12 personas en la Serranía de Ronda,4,0,8,89,Málaga,Júzcar,1,0,1
+247,Espléndido apartamento vacacional con amplia terraza privada en Coín,3,1,6,77,Málaga,Jubrique,1,0,1
+248,Casa de vacaciones en las colinas de la provincia de Málaga,4,1,8,21,Málaga,Ronda,1,0,1
+2211,Elegante casa andaluza para descansar,3,0,6,48,Cádiz,Conil de la Frontera,0,1,0
+1894,Casa de vacaciones con 2 dormitorios y WiFi en la Sierra de Cádiz,3,1,6,17,Málaga,Frigiliana,0,1,0
+2397,Casa Rural con barbacoa y internet en Prado del Rey,1,0,4,41,Málaga,Frigiliana,1,1,0
+259,Casa de vacaciones para 4 personas en el pueblo de Prado del Rey,2,1,4,88,Málaga,El Borge,1,1,1
+1299,Acogedor apartamento para dos personas en Júzcar,1,0,2,40,Cádiz,El Gastor,1,1,1
+638,Coqueto dúplex en el asombroso pueblo pitufo de Júzcar,2,0,5,43,Málaga,Almáchar,0,1,0
+2382,Bonita casa de vacaciones en el pueblo de los Pitufos,1,0,4,71,Málaga,Álora,1,1,1
+277,Acogedora casa rural para cuatro personas en Júzcar,1,0,2,57,Málaga,Júzcar,1,0,1
+278,Hermosa Casa cerca de la playa,3,0,5,14,Málaga,Júzcar,1,0,1
+279,Tradicional cortijo con jardín tropical y piscina,6,0,12,95,Málaga,Júzcar,0,0,0
+280,Casa rural en un entorno natural con vistas desde la piscina,1,0,4,70,Málaga,Júzcar,1,0,1
+1729,Coqueto apartamento para 4 personas muy cerca del Caminito del Rey,1,1,2,25,Málaga,Torrox,1,1,1
+285,Espléndida casa rural con vistas a las montañas cerca de El Chorro,3,0,6,11,Málaga,El Borge,1,1,1
+286,Fabulosa villa totalmente equipada con bonitas vistas y piscina,2,1,4,85,Málaga,Álora,1,0,1
+287,Finca grande con piscina privada en las montañas de Almáchar,3,0,8,11,Málaga,Álora,1,1,0
+2328,Pintoresca casa de estilo rural entre Cádiz y Málaga,5,0,16,51,Jaén,Pozo Alcón,1,0,1
+776,Excelente villa con impresionantes vistas y gran piscina,5,3,10,79,Málaga,Cómpeta,1,1,1
+3548,Casa de vacaciones con piscina vallada y vistas al pueblo blanco de Olvera,4,1,9,44,Málaga,El Borge,1,1,1
+3545,Casa grande ideal para grupos con barbacoa y piscina en Zahara de la Sierra,4,0,11,49,Huelva,Villalba del Alcor,1,1,0
+2187,Casa rural con 6 camas y chimenea en Zahara de la Sierra,3,1,5,99,Granada,Salar,0,1,0
+2188,Bonita casa rural para 4 personas con chimenea en Zahara de la Sierra,5,3,9,85,Málaga,Alhaurín el Grande,1,1,1
+2200,Enorme complejo rural para 29 personas en la Sierra de Cádiz,2,1,6,91,Málaga,Alhaurín de la Torre,1,1,1
+2190,Casa muy bien decorada con jardín tropical,4,1,9,21,Málaga,Cómpeta,1,1,1
+2191,Casa rural junto a los pueblos blancos entre Málaga y Cádiz,4,1,8,84,Málaga,Comares,1,1,0
+288,Coqueta casa con magnífico jardín. Privacidad garantizada,2,0,4,87,Málaga,Álora,1,1,1
+2425,Elegante estudio con preciosas vistas ideal para parejas,5,3,15,13,Jaén,Villanueva del Arzobispo,1,1,1
+293,"Hermosa casa bien decorada, ideal para parejas",5,0,11,55,Málaga,Almáchar,0,1,0
+3532,Casa de vacaciones con 2 camas de matrimonio y zona de estar en Ubrique,4,1,8,46,Málaga,Torrox,1,1,1
+2771,Casa rural con aire y amplia ducha hidromasaje en la provincia de Cádiz,1,0,4,34,Málaga,Torremolinos,1,1,1
+295,Apartamento con chimenea y 2 dormitorios en Ubrique,4,0,10,47,Málaga,Viñuela,1,1,1
+298,Hermosa habitación rural con exteriores compartidos a 10 km de de la playa,7,0,23,67,Cádiz,Olvera,1,1,1
+299,Casa de vacaciones para 7 personas con vistas impresionantes,6,2,18,22,Cádiz,Zahara de la Sierra,1,1,1
+300,Casa de estilo rústico para 7 personas en Zahara de la Sierra,3,1,7,30,Cádiz,Zahara de la Sierra,0,1,0
+301,Coqueta casa rústica en Zahara de la Sierra - privacidad garantizada,1,0,4,43,Cádiz,Zahara de la Sierra,1,1,1
+1193,Acogedora casa rural para seis personas con asombrosas vistas al lago,3,1,6,64,Cádiz,Conil de la Frontera,0,1,0
+302,Villa con vistas espectaculares al lago,10,0,29,16,Cádiz,Zahara de la Sierra,1,0,1
+303,"Amplia casa rural con un fantástico panorama, cerca del Caminito del Rey",5,3,10,20,Málaga,Montecorto,1,1,1
+4013,Casa rural con internet y exteriores compartidos al norte de Sierra Nevada,3,0,6,47,Málaga,Málaga - Campanillas,1,1,1
+304,Casa de vacaciones para parejas con WiFi en Guadix - admite mascotas,1,1,2,90,Málaga,Montecorto,0,1,0
+305,Casa de vacaciones cerca de Gibraltar - mascotas admitidas,2,0,5,77,Málaga,Montecorto,1,1,1
+4052,Típica casa andaluza para 8 personas a 30 km de Gibraltar,4,1,12,50,Jaén,Jaén,0,1,0
+4012,Bonita casa de madera para 4 personas donde ir con mascotas,3,2,5,78,Málaga,Benalmádena,0,1,0
+306,Casa rural de madera ideal para una pareja en Algeciras,1,1,2,81,Málaga,Montecorto,1,1,1
+307,Luminosa casa de vacaciones para 5 personas con jardín bien cuidado en Barbate,0,0,2,18,Málaga,Montecorto,1,1,1
+1437,Casa de vacaciones para 3 personas con jardín vallado cerca de la playa,4,1,6,39,Cádiz,Conil de la Frontera,1,1,1
+311,Coqueto alojamiento vacacional para 3 personas con bonito jardín privado,1,0,2,64,Málaga,Vélez-Málaga,1,1,1
+491,Casa de vacaciones con acceso internet a 1 km de la playa,1,0,2,25,Málaga,Vélez-Málaga,0,0,0
+320,Casa rural con 4 dormitorios y bañera hidromasaje en la Axarquía,3,0,6,71,Málaga,Viñuela,1,1,1
+321,Moderna casa rural con exuberante jardín cerca de la playa,2,0,4,62,Málaga,Álora,1,1,1
+327,Casa de vacaciones con enorme piscina vallada y bonito porche,2,0,4,73,Granada,Valle del Zalabí - Alcudia de Guadix,1,1,1
+328,Coqueta casa de vacaciones para 4 personas en la Sierra de Cádiz,1,0,2,46,Granada,Valle del Zalabí - Alcudia de Guadix,1,1,1
+1397,Antigua casa rural para 5 personas con chimenea en la provincia de Málaga,3,0,6,20,Sevilla,El Coronil,1,0,1
+1387,Apartamento para 5 personas decorado con piedras - mascotas permitidas,3,0,8,97,Sevilla,Los Palacios y Villafranca,1,0,1
+340,"Maravillosa villa con piscina y barbacoa, ideal para grupos",4,2,10,87,Málaga,Almáchar,0,1,0
+1194,Bonita casa de vacaciones con patio cerrado y barbacoa en Conil de la Frontera,2,0,4,85,Cádiz,Conil de la Frontera,0,1,0
+349,Acogedora casa de vacaciones de 2 dormitorios cerca de la playa en Conil,11,2,20,78,Málaga,Arriate,1,1,0
+3116,Casa de vacaciones con porche privado para 5 personas en Conil de la Frontera,4,0,8,87,Málaga,Almáchar,0,1,0
+789,Casa de vacaciones para 8 personas cerca de la playa en la provincia de Cádiz,3,1,7,81,Málaga,Álora,1,1,1
+790,Cortijo rural compuesto por 3 casas para 12 personas en Conil de la Frontera,3,1,8,40,Málaga,Álora,1,1,1
+1814,Casa rural para 6 personas con exteriores compartidos - admite mascotas,5,1,10,79,Jaén,Alcalá La Real,1,0,1
+356,Casa Rural cerca de la playa con jardín y barbacoa en Algarrobo,2,0,6,81,Cádiz,Barbate,1,1,1
+359,Casa Rural cerca de la playa con piscina y Wifi en Algarrobo ,4,1,8,53,Málaga,Ronda,1,1,0
+762,Acogedora casa rural con piscina vallada en Ronda,2,0,6,27,Almería,Níjar,0,0,0
+365,Casa Rural con chimenea y piscina en Cuevas del Becerro ,1,0,4,91,Cádiz,Barbate,1,1,1
+366,Casa de vacaciones con WiFi para 4 personas a escasos km de la playa,1,0,2,32,Cádiz,Barbate,0,1,0
+368,Casa de vacaciones con WiFi para 2 personas a escasos km de la playa,4,1,10,91,Málaga,Canillas de Albaida,1,1,0
+369,"Villa rústica con piscina y sauna climatizada, vistas impresionantes",2,0,4,65,Málaga,Cómpeta,1,1,1
+370,Acogedora casa rural en las montañas,3,1,10,29,Málaga,Canillas de Albaida,1,1,1
+371,"Villa con encanto, piscina climatizada y Jacuzzi exterior",3,1,8,23,Málaga,Cómpeta,1,1,1
+372,Bonita casa de vacaciones en las montañas de la provincia malagueña,5,1,10,54,Málaga,Cómpeta,1,1,1
+2133,Villa paradisíaca con Jacuzzi exterior y piscina climatizada,5,0,8,43,Cádiz,Grazalema,1,1,1
+2134,Apartamento cerca de la playa con chimenea en Conil de la Frontera ,1,1,2,49,Granada,Nevada,0,0,0
+385,Apartamento cerca de la playa en Conil de la Frontera ,2,0,4,75,Cádiz,Barbate - Zahora,0,1,0
+386,Casa Rural cerca de la playa con chimenea y Wifi en Barbate - Zahora ,2,0,5,24,Cádiz,Barbate - Zahora,0,1,0
+387,Casa cerca de la playa con jardín y barbacoa en La Janda- Costa de la Luz,2,0,5,43,Cádiz,Barbate - Zahora,0,1,0
+388,Casa cerca de la playa con chimenea y jardín en Barbate - Zahora,2,0,5,82,Cádiz,Barbate - Zahora,0,1,0
+2447,Casa  con barbacoa y jardín en Vejer de la Frontera - El Palmar,4,3,14,54,Almería,Roquetas de Mar,1,1,0
+2448,Casa cerca de la playa con jardín y chimenea en Vejer de la Frontera - El Palmar,9,10,18,32,Sevilla,Cazalla de la Sierra,1,1,1
+2449,Casa cerca de la playa con piscina y Wifi en Vejer de la Frontera - El Palmar,4,1,10,83,Málaga,Cómpeta,1,1,0
+3719,Apartamento cerca de la playa en Conil de la Frontera para 6 personas,2,0,5,24,Cádiz,Conil de la Frontera,0,1,0
+2453,Apartamento en Conil de la Frontera ,3,1,6,39,Málaga,Arriate,0,1,0
+1590,Casita de vacaciones para 5 personas a menos de 2km de la playa en Barbate,3,0,8,13,Málaga,Málaga,1,1,1
+405,"Casa de vacaciones con 2 dormitorios, 1 baño y barbacoa en Barbate",4,1,8,97,Málaga,Almáchar,1,1,1
+406,Casa rural para 5 personas con zona exterior compartida,6,1,12,42,Málaga,Almáchar,1,1,1
+1732,Casa de vacaciones con luminosos interiores para 5 personas,2,1,5,55,Málaga,Álora,1,1,1
+2774,Casa Rural cerca de la playa con piscina y barbacoa en Conil de la Frontera para 8 personas,3,1,6,74,Málaga,Almáchar,0,1,0
+410,Casa de vacaciones en Conil de la Frontera para 8 personas y mascotas,3,1,6,37,Málaga,Torrox,1,1,1
+414,Casa para 4 personas en Conil de la Frontera - mascotas permitidas,5,1,10,48,Málaga,Almáchar,0,1,0
+1133,Apartamento de 1 dormitorio con terraza privada en Conil de la Frontera,1,0,4,34,Málaga,Málaga - Churriana,1,1,1
+2406,Luminoso apartamento vacacional para 4 personas en Conil de la Frontera,2,1,4,21,Granada,Salobreña,1,1,1
+2241,Espacioso apartamento para 6 personas con bonita terraza privada,7,3,24,38,Málaga,Archidona,1,1,1
+2244,Apartamento rural para 4 personas cerca de la playa en la Costa de la Luz,3,1,7,34,Málaga,Alhaurín el Grande,1,1,1
+1315,Apartamento para 6 personas a pocos kilómetros de la playa cerca de Cádiz,3,0,7,19,Cádiz,Setenil de las Bodegas,1,0,1
+429,Apartamento con conexión WiFi cerca de la playa en El Puerto de Santa María,9,1,24,87,Granada,Montefrío,1,1,1
+436,Coqueto apartamento para 8 personas con conexión internet cerca de la playa,3,0,5,56,Málaga,Alozaina,1,1,1
+445,Casa tradicional con asombrosas vistas al pueblo de Gaucín,3,1,6,77,Málaga,Antequera - La Higuera,1,1,1
+446,Apartamento vacacional en Conil de la Frontera con Wi-Fi y aire acondicionado,6,3,17,48,Málaga,Sedella,1,1,1
+455,Casa acogedora con jardín cerca de de la playa y a 12 km de Málaga centro,3,1,8,91,Málaga,Antequera - La Higuera,0,1,0
+456,Acogedora casa rústica con magníficas vistas a la montaña,3,1,8,34,Málaga,Antequera - La Higuera,0,1,0
+2194,Tranquila casa rural con preciosas vistas a la montaña,3,1,7,10,Málaga,Cortes de la Frontera,1,1,1
+643,Gran casa con unas vistas fantásticas - apta para grupos,11,0,22,68,Málaga,El Borge,1,1,1
+2164,"Villa con gran jardín, piscina y vistas maravillosas",6,1,12,29,Almería,Oria,1,1,1
+2165,Casa de vacaciones en plena naturaleza en Cómpeta,3,2,8,73,Málaga,Málaga - Churriana,1,1,1
+2421,"Bonito chalet con gran piscina, cama balinesa y vistas al mar",4,0,8,15,Cádiz,Conil de la Frontera,0,1,0
+461,Finca grande con piscina y vistas increibles,3,2,6,62,Málaga,Antequera - La Higuera,0,1,0
+2037,"Acogedora casa rural con jardín, rodeada por el campo",4,1,8,41,Granada,Almuñécar,1,1,1
+465,Casa Rural con chimenea en Antequera ,3,1,6,35,Málaga,Antequera - La Higuera,0,1,0
+468,Colorida casa con piscina donde ver increíbles atardeceres,3,3,7,28,Málaga,Villanueva de la Concepción,1,1,1
+469,Pintoresca casa rural cerca del pueblo de Nerja,3,1,6,92,Málaga,Antequera - La Joya,0,1,0
+2515,Casa Rural cerca de la playa con piscina en Torrox ,4,1,10,30,Cádiz,Conil de la Frontera,0,1,0
+470,"Enorme casa ecosostenible, ideal para grupos con mascotas en Montefrío",4,2,8,28,Málaga,Antequera - La Higuera,1,1,0
+472,Pintoresco cortijo rural para 14 personas en Montefrío,2,0,4,91,Cádiz,El Gastor,1,1,1
+473,Estupendo chalet de dos plantas con vistas al mar en Nerja,1,0,3,45,Málaga,Periana,1,1,1
+3199,Casa Rural con jardín y chimenea en Júzcar ,2,0,4,51,Sevilla,Marchena,1,1,1
+3200,Casa Rural con jardín y piscina en Júzcar ,3,1,6,66,Málaga,Torrox,0,1,0
+529,Casa Rural con chimenea y piscina en Júzcar ,2,0,4,45,Granada,Órgiva,1,1,1
+477,Casa de madera rústica con piscina - ideal para familias,1,0,2,72,Málaga,Periana,0,1,0
+478,Casa Rural en el pueblo de Alozaina con barbacoa,1,0,3,38,Málaga,Periana,1,1,1
+479,Hermosa casa con asombrosas vistas a los olivos,1,0,3,45,Málaga,Periana,0,1,0
+480,Típica hacienda andaluza con impresionante terraza en la Axarquía,1,1,2,71,Málaga,Periana,1,1,1
+482,Hermosa casa rural cerca de la playa con vistas a las montañas,10,4,25,72,Cádiz,Prado del Rey,1,1,1
+490,Casa Rural con piscina y Wifi en Antequera - La Higuera,10,0,22,46,Málaga,Almáchar,1,1,0
+492,Tradicional casa andaluza con piscina vallada y vistas espectaculares,4,1,7,68,Málaga,Antequera - La Higuera,1,1,1
+493,Bonito chalet con piscina cerca de Antequera,2,1,3,39,Málaga,Ardales,1,1,1
+497,Casa rural estupenda para viajar con niños,1,0,2,88,Granada,Órgiva,1,1,1
+497,Casa rural con chimenea y vistas al pantano en la provincia de Cádiz,1,0,2,51,Granada,Órgiva,1,1,1
+499,Casa de vacaciones de dos plantas para 5 personas en la provincia de Cádiz,4,0,10,64,Granada,Órgiva,1,1,1
+500,Magnífica villa con impresionantes vistas al Torcal de Antequera,1,0,3,89,Granada,Órgiva,0,1,0
+501,"Acogedora casa rural con vistas, cerca de Antequera",3,0,6,13,Granada,Órgiva,1,1,1
+507,Casa Rural con piscina y chimenea en Almogía ,3,1,6,94,Granada,Válor,1,1,1
+508,Casa de vacaciones con zona de chill-out y chimenea cerca de Antequera,2,2,4,54,Granada,Válor,1,1,1
+509,"Casa rural con piscina privada, barbacoa y jardín",3,2,6,75,Granada,Válor,1,1,1
+510,Casa rural con fabulosos exteriores y privacidad garantizada,3,1,6,85,Granada,Válor,1,1,1
+511,Tranquila casa rural con gran piscina y barbacoa,2,1,4,87,Granada,Válor,1,1,1
+512,Preciosa casa rural con fabulosas vistas y zona de chill-out,2,1,4,26,Granada,Válor,1,1,1
+513,Casa cerca de la playa con piscina y jardín en Barbate - Zahora,2,1,4,41,Granada,Válor,1,1,1
+514,Hermosa villa con encanto y magníficas vistas,1,1,2,91,Granada,Válor,1,1,1
+515,Fantástico apartamento rural ideal para parejas,4,1,8,36,Granada,Válor,1,1,1
+518,Apartamento acogedor para dos personas con terraza privada,1,1,2,68,Granada,La Taha - Pitres,1,1,1
+519,Coqueto apartamento rural con WiFi en un complejo en Periana,6,3,12,29,Granada,Órgiva,1,1,1
+520,Casa Rural con chimenea y jardín en Periana,1,1,2,68,Granada,Capileira,1,1,1
+522,Casa Rural con chimenea y jardín en Periana para 2 personas,3,0,6,38,Granada,Órgiva,1,1,1
+524,Enorme cortijo rural de 10 dormitorios para grupos en la provincia de Cádiz,2,0,5,25,Granada,Órgiva,1,1,1
+525,Casa Rural con jardín y chimenea en El Bosque ,2,0,4,41,Granada,Órgiva,1,1,1
+1388,Casa Rural con jardín y barbacoa en El Bosque ,4,1,10,43,Málaga,Mijas,1,1,1
+538,Casa Rural con barbacoa y chimenea en El Bosque ,0,1,4,48,Granada,La Taha - Pitres,1,1,1
+539,Coqueta casa de vacaciones para cinco personas en Álmachar,1,1,3,50,Granada,La Taha - Pitres,1,1,1
+540,Gran casa con piscina y agradable zona de barbacoa,2,1,4,64,Granada,La Taha - Pitres,1,1,1
+541,Casa Rural cerca de la playa con barbacoa y Wifi en Almáchar,1,1,3,24,Granada,La Taha - Pitres,1,1,1
+542,Coqueta casa de vacaciones para cinco personas en Álmachar,2,2,4,75,Granada,Bubión,1,0,1
+543,"Encantadora casa con piscina, ideal para grupos",3,0,6,22,Granada,La Taha - Pitres,1,1,1
+544,Habitación para 2 personas con exteriores compartidos,3,1,6,32,Granada,La Taha - Pitres,1,1,1
+548,Maravillosa villa con amplio jardín y asombrosas vistas,2,0,5,88,Granada,Órgiva,0,1,0
+549,Estupendo apartamento de diseño cerca del Caminito del Rey,2,0,4,91,Granada,Órgiva,0,1,0
+1338,Rincón con encanto en Órgiva - ideal para parejas,3,0,5,55,Málaga,Yunquera,0,0,0
+558,Casa Rural cerca de la playa con Wifi y jacuzzi en Órgiva ,2,0,4,37,Granada,Órgiva,1,1,1
+559,Mágica casa con gran jardín y Jacuzzi al aire libre,2,0,5,58,Granada,Órgiva,0,1,0
+560,Excelente villa con encanto en el entorno único de Las Alpujarras,2,0,5,95,Granada,Órgiva,0,1,0
+568,Bonita casa andaluza con espectacular piscina privada,4,2,12,61,Granada,Íllora,1,0,1
+570,Casa rural con mesa de ping-pong y exteriores de encanto,2,0,4,70,Granada,La Taha - Mecina Fondales,1,1,1
+575,Bonita casa de vacaciones de 3 dormitorios con vistas a la campiña granadina,3,1,7,35,Málaga,Ronda,1,1,0
+576,Casa rural de 2 dormitorios con acceso WiFi en la provincia de Granada,1,0,3,50,Málaga,Ronda,1,1,0
+578,Casa rural para 6 personas con acceso WiFi en la provincia de Granada,3,0,8,33,Málaga,Jubrique,0,1,0
+580,Casa de vacaciones con 5 camas y zonas exteriores compartidas,3,0,6,10,Málaga,Ronda,1,1,1
+582,Casa de vacaciones para 4 personas a escasos kilómetros de Sierra Nevada,3,1,8,49,Málaga,Antequera - La Higuera,1,1,1
+583,Casa de vacaciones con 4 camas y bonita zona de piscina compartida,3,1,6,32,Málaga,Antequera - La Higuera,0,1,0
+584,Casa de vacaciones para familias con balcón privado cerca de Sierra Nevada,3,1,6,74,Málaga,Antequera - La Higuera,1,1,1
+587,Casa de vacaciones con chimenea - ideal para parejas,3,1,6,23,Málaga,Cómpeta,1,1,0
+1900,Casa de vacaciones con 4 dormitorios y 2 baños en Válor,2,2,4,53,Cádiz,Arcos de la Frontera,1,1,1
+1901,Preciosa villa ofrece hermosas vistas. Ideal para parejas,4,1,12,75,Málaga,Carratraca,1,1,1
+3783,Finca con piscina y vistas impresionantes a las montañas,5,1,10,74,Málaga,Alhaurín de la Torre,0,1,0
+1289,Ático con encanto para una pareja en la Alpujarra Granadina,2,0,4,99,Málaga,Frigiliana,1,1,0
+588,"Casa de vacaciones ideal para grupos, con piscina vallada",2,2,4,15,Málaga,Cómpeta,1,1,0
+2031,Coqueto apartamento para dos personas en plena Alpujarra Granadina,2,0,4,87,Granada,Almuñécar,0,1,0
+2032,Espaciosa casa de vacaciones con aire acondicionado y chimenea en Órgiva,3,0,6,35,Sevilla,La Lantejuela,1,1,1
+2033,Bonita casa de vacaciones para cinco personas y una mascota,3,3,6,77,Málaga,Alozaina,1,1,1
+589,Pintoresca casa rural con coqueto porche en Órgiva,3,1,6,15,Málaga,Cómpeta,1,1,0
+590,Acogedora casa de vacaciones con espléndido jardín en Órgiva,2,1,4,31,Málaga,Cómpeta,1,1,0
+2043,Bonita casa rural en las montañas en Órgiva - admite mascotas,1,1,2,87,Málaga,Alhaurín el Grande,1,1,1
+2045,"Acogedora casa rural con terraza, barbacoa y piscina",3,1,6,60,Málaga,Coín,1,1,1
+1631,Casa Rural con barbacoa y piscina en La Taha - Pitres,3,2,6,56,Málaga,Nerja,0,1,0
+1393,Excelente casa con un encanto especial y piscina,4,0,10,95,Sevilla,Sanlúcar La Mayor,1,1,1
+1394,Tradicional villa andaluza con bonito jardín,3,0,6,56,Cádiz,Grazalema,1,1,1
+1396,Increíble casa de vacaciones en una ubicación privilegiada ,3,0,6,61,Sevilla,El Coronil,1,0,0
+1398,Casa de vacaciones con acogedora terraza acristalada en la Sierra Nevada,6,3,13,53,Sevilla,El Coronil,1,0,1
+592,Rincón con encanto en un entorno idílico,3,0,6,80,Málaga,Cómpeta,1,1,0
+2817,Excelente casa rural de diseño rústico y bonita decoración,1,0,2,91,Cádiz,Vejer de la Frontera - El Palmar,1,1,1
+593,Coqueta casita rural de estilo rústico en Pampaneira,3,0,6,78,Málaga,Cómpeta,1,1,0
+1350,Casa rural para 6 personas en las Alpujarras de Granada,5,1,10,14,Granada,Huétor-Tájar,1,1,1
+1774,Casa rural para parejas en Pampaneira,3,2,6,99,Málaga,Alhaurín el Grande,1,1,1
+1402,Casa rural con encanto especial y piscina en Órgiva,3,1,6,20,Málaga,Alozaina,1,1,1
+1389,"Bonita casa con vistas al pueblo, piscina y amplio jardín",6,1,14,53,Sevilla,La Luisiana,1,1,1
+2981,Coqueto apartamento con bonita terraza privada para 2 personas,0,1,2,60,Málaga,Mijas,1,1,1
+1390,Acogedor apartamento para 4 personas con estufa y zona de estar,6,0,14,90,Sevilla,Pruna,1,1,1
+1391,Apartamento para 5 personas en la Alpujarra granadina - mascotas admitidas,4,0,12,15,Sevilla,Pruna,1,1,1
+595,Sensacional casa rural con jacuzzi exterior e interior,3,1,6,43,Málaga,Cómpeta,1,1,0
+2067,Casa rural con espacioso jardín privado para 4 personas en Órgiva,4,2,10,19,Málaga,Alhaurín el Grande,1,1,1
+596,Casa con encanto con piscina privada y vistas a las montañas,2,0,4,15,Málaga,Cómpeta,1,1,0
+598,Tradicional casa de vacaciones cerca de la Sierra Nevada,3,0,6,47,Málaga,Cómpeta,1,1,0
+601,"Casa rural rodeada de naturaleza, ideal para relajarse",2,1,4,63,Málaga,Sayalonga,1,1,0
+4075,Moderna casa andaluza con impresionantes vistas,3,0,6,57,Málaga,Sayalonga,1,1,1
+2840,Apartamento de estilo rural para 6 personas en la provincia de Granada,3,3,6,57,Málaga,Mijas,1,1,1
+1614,Acogedor apartamento de dos plantas para 4 personas en Sorvilán,3,2,6,92,Málaga,Nerja,1,1,1
+1615,Apartamento de 2 dormitorios con chimenea a 20 km de la Costa Tropical,4,1,7,48,Málaga,Nerja,1,1,1
+1619,Apartamento vacacional para 6 personas en la provincia de Granada,2,1,4,34,Málaga,Frigiliana,1,1,1
+1622,"Casa rural con zona exterior perfectamente equipada, rodeada por olivares",6,2,12,36,Málaga,Frigiliana,1,1,1
+1625,Hermosa casa de piedra con piscina - ideal para familias,5,4,10,23,Málaga,Nerja,0,1,0
+2734,Tradicional casa rural con espléndido patio en la provincia de Granada,2,0,5,16,Granada,Fonelas,1,1,1
+1628,Espaciosa casa rural con jardín en Prado del Rey,2,0,4,74,Málaga,Nerja,0,1,0
+2733,Casa Rural con chimenea y piscina en Ronda,2,0,4,49,Granada,Fonelas,1,1,1
+1630,Villa excepcional con vistas impresionante del Tajo de Ronda,4,1,8,36,Málaga,Frigiliana,0,1,0
+604,Bonita casa rural en la montaña con juegos para niños y jardín,3,0,6,78,Málaga,Cómpeta,0,1,0
+605,Casa Rural cerca de la playa con piscina y jardín en Guaro ,3,0,6,51,Málaga,Cómpeta,1,1,0
+1906,Magnífica casa rural con vistas al embalse de Zahara,3,1,6,34,Granada,Almuñécar,1,1,1
+1597,Fantástica casa rodeada de olivos. Tranquilidad asegurada,10,2,20,26,Cádiz,El Bosque,1,1,1
+1603,Precioso rincón en Antequera - ideal para familias,1,0,2,84,Cádiz,El Gastor,0,1,0
+1604,Villa con precioso estilo rústico en medio de la naturaleza,1,0,2,80,Cádiz,El Gastor,0,1,0
+1605,Casa Rural cerca de la playa con chimenea y jardín en Sedella ,1,0,2,76,Cádiz,El Gastor,0,1,0
+1606,Extraordinaria villa con espectaculares vistas al mar,1,0,2,35,Cádiz,El Gastor,0,1,0
+2935,Coqueta casa rural con bonitas vistas y piscina en Cómpeta,4,0,10,21,Cádiz,El Bosque,1,1,1
+1607,Casa andaluza de ensueño con vistas a la montaña,1,0,2,85,Cádiz,El Gastor,0,1,0
+1610,Estupenda casa en Cómpeta con vistas al mar,3,1,6,68,Málaga,Nerja,0,1,0
+606,Casa Rural cerca de la playa con piscina y chimenea en Cómpeta para 6 personas,3,1,6,71,Málaga,Cómpeta,1,1,0
+2850,Excelente Casa rural con encanto con vistas al mar,8,0,24,35,Jaén,Villanueva del Arzobispo,1,1,1
+851,Preciosa casa rural con vistas al mar Mediterráneo en Cómpeta,3,0,8,41,Granada,Íllora,0,0,0
+611,Casa Rural cerca de la playa con piscina y barbacoa en Cómpeta ,3,0,5,91,Málaga,Villanueva de la Concepción,1,1,1
+612,Casa tradicional con impresionantes vistas al mar y a la montaña,2,1,4,87,Málaga,Antequera - La Higuera,0,1,0
+613,Estupenda finca andaluza con maravillosas vistas,2,1,4,24,Málaga,Antequera - La Higuera,1,0,1
+614,Excelente chalet con encanto y estupendas vistas al mar,3,1,6,22,Málaga,Antequera - La Higuera,1,1,1
+1888,Típica casa de vacaciones andaluza con impresionantes paisajes,4,0,8,83,Málaga,Villanueva del Rosario,1,1,1
+1889,"Coqueta casa rural con asombrosas vistas en Cómpeta, ideal para parejas",4,0,10,75,Málaga,Alhaurín el Grande,1,1,1
+1890,Fantástica casa rural rodeada de naturaleza en Sayalonga,4,3,14,73,Málaga,Benalmádena,1,1,1
+2315,Casa Rural cerca de la playa con barbacoa y piscina en Cómpeta para 8 personas,3,1,10,98,Málaga,Benaoján,1,1,1
+616,Acogedora casa rural en Cómpeta con preciosas vistas,3,1,6,34,Málaga,Antequera - La Higuera,1,1,1
+617,Típica casa andaluza ideal para escapar de la rutina,4,1,8,11,Málaga,Antequera - La Higuera,1,1,1
+1674,Espaciosa casa rural con vistas en Cómpeta,3,0,5,17,Málaga,Alpandeire,1,1,1
+618,Villa rústica con impresionantes vistas y una bonita piscina,2,1,4,34,Málaga,Torrox,1,1,1
+620,Amplia casa de vacaciones con chimenea y WiFi - admite mascotas,3,1,6,66,Málaga,Antequera - La Higuera,0,1,0
+621,Estupenda casa rural con fantásticas vistas a las montañas,5,1,12,31,Málaga,Fuente de Piedra,1,1,1
+622,Villa tranquila con piscina cerca del Torcal,2,1,5,52,Málaga,Fuente de Piedra,1,1,1
+624,Casa Rural con chimenea y barbacoa en Antequera - La Higuera,6,1,14,25,Málaga,Alhaurín el Grande,0,1,0
+625,Acogedora casa rural para 6 personas en Antequera,3,1,6,32,Málaga,El Borge,0,1,0
+626,Maravillosa casa rústica con gran jardín y piscina,3,1,8,86,Málaga,Comares,0,1,0
+627,Estupenda casa rural con mesa de ping-pong,4,1,12,29,Málaga,Villanueva del Trabuco,1,1,1
+628,Elegante casa con piscina privada cerca de la playa,4,1,8,51,Málaga,Álora,1,1,1
+629,Fantástica casa rural con gran jardín,3,1,6,32,Málaga,Torrox,1,1,1
+630,Casa rural con impresionante jardín privado - admite mascotas,3,1,8,88,Málaga,Jubrique,1,0,1
+781,"Espacioso cortijo perfectamente equipado, ideal para familias",1,0,2,93,Málaga,Júzcar,1,0,1
+634,Casa rural con piscina privada en parque natural,13,3,34,41,Málaga,Sayalonga,1,1,0
+644,Casa Rural cerca de la playa con piscina y barbacoa en Sedella ,2,1,4,36,Málaga,Viñuela,1,1,1
+2262,Antigua hacienda andaluza decorada al estilo tradicional,3,1,6,20,Málaga,Álora,1,0,1
+647,Casa rural con vistas de ensueño y amplia zona de estar en El Borge,4,1,8,34,Málaga,Almáchar,1,1,1
+649,Casa de vacaciones en el campo - ideal para familias,8,0,19,12,Málaga,Álora,0,1,0
+651,Espaciosa casa rural con piscina de agua salada climatizada,2,1,4,12,Málaga,Frigiliana,1,1,1
+652,Casa Rural con jardín y piscina en Álora ,25,2,66,36,Málaga,Sayalonga,1,1,0
+653,Acogedora casa de vacaciones con vistas al mar y piscina,2,1,5,27,Málaga,Antequera - La Higuera,0,1,0
+654,"Casa rural para ocho personas, a menos de 20 km del pueblo pitufo de Júzcar",3,1,6,66,Málaga,Sedella,1,1,0
+656,Amplia casa de vacaciones en la Axarquía,3,1,6,43,Málaga,Frigiliana,0,1,0
+2150,Alojamiento vacacional para grupos en un antiguo edificio histórico,3,0,4,97,Málaga,Frigiliana,1,1,1
+658,Acogedora casa rural en la Axarquía malagueña,4,1,10,48,Málaga,Colmenar,1,0,1
+2081,Casa rural ideal para grupos en Sayalonga,3,0,6,27,Granada,Motril,0,1,0
+659,Bonita casa rural con vistas a las montañas - mascotas admitidas,14,3,30,50,Málaga,Villanueva del Trabuco,1,0,1
+666,Casa de vacaciones con bonita piscina con forma de corazón,3,1,6,75,Málaga,Iznate,0,1,0
+2036,Acogedora casa de vacaciones con piscina y jardín,3,1,6,15,Málaga,Frigiliana,1,1,1
+668,Magnífica casa rústica con fabulosos exteriores para 2 personas,5,0,12,10,Málaga,Almáchar,0,1,0
+3510,"Impresionante casa rural con vistas asombrosas, ideal para grupos",3,1,6,53,Málaga,Torrox,1,1,1
+3511,Casa con piscina e impresionantes vistas al lago,1,1,2,60,Málaga,Torrox,1,1,1
+3512,Tradicional casa rústica con piscina ideal para familias,3,0,6,10,Granada,Motril,0,1,0
